@@ -1,5 +1,7 @@
 # Dead Pixels
 
+Dead Pixels launcher
+
 React / Express / tRPC / Drizzle starter, adapted from the Sandbox web-db-user template.
 
 - `pnpm dev`: development server; honors `PORT` (default 3000).
