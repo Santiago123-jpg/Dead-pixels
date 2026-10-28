@@ -1,0 +1,19 @@
+{
+  "name": "Dead Pixels — Game Launcher",
+  "short_name": "Dead Pixels",
+  "description": "Tu biblioteca de juegos, una sola señal.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#09090a",
+  "theme_color": "#09090a",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "/tv-skull-icon.jpg",
+      "sizes": "768x768",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
